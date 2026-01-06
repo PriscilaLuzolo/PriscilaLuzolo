@@ -5,7 +5,7 @@
 
 👨‍🏫 Formada em Ciência de Dados<br>
 💻 Estudando novas tecnologias <br>
-🧠 intresse por inteligência artificial <br>
+🧠 interesse por inteligência artificial <br>
 
 
 
