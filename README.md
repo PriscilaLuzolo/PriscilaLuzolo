@@ -27,7 +27,5 @@
 
 
 ## Me encontre 🌎
-
-[![Linkedin :Priscila Luzolo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=[[https://www.linkedin.com/in/priscila-l-9a3402271](https://www.linkedin.com/in/priscila-l-9a3402271/)](https://www.linkedin.com/in/priscila-l-9a3402271/))]([https://www.linkedin.com/in/priscila-l-9a3402271](https://www.linkedin.com/in/priscila-l-9a3402271/))
-
+[![LinkedIn](img.shields.io)](https://www.linkedin.com/in/priscila-l-9a3402271)
 
