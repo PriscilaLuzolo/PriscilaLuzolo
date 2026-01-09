@@ -27,5 +27,5 @@
 
 
 ## Me encontre 🌎
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=github&&logo=linkedin&logoColor=white_button&width1000px&height=100px)])](https://www.linkedin.com/in/priscila-l-9a3402271)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=github&&logo=linkedin&logoColor=white_button&width1000px&height=100px)](https://www.linkedin.com/in/priscila-l-9a3402271)
 
